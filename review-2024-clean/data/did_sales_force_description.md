@@ -1,0 +1,3 @@
+## DID for sales force compensation plan
+
+Test the effect of the new sales force compensation plan implemented in region R2 in period P2 using a difference in differences estimator. This effect can be determined by creating a pivot-table of the average CLV value for all region-period pairs. Alternatively, you can derive the effect from a linear regression estimated with an interaction effects between `region` and `period` 
